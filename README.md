@@ -5,6 +5,6 @@ Linux OS8.0 18.10 compiling my os constructor distr onli linux-java-hybrid
 
 $$ opencv_interactive-calibration
 
-Example video tutorial https://radikal.ru/video/KKy4vVPnYF4
+Example video tutorial https://radikal.ru/video/KKy4vVPnYF4 video open firefox onli not support chrome browser
 
 
