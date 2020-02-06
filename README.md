@@ -9,7 +9,7 @@ $$ sudo dpkg opencv-401-java_18.10-1_amd64.deb
 
 $$ opencv_interactive-calibration
 
-Example video tutorial https://radikal.ru/video/AbKeQ8QmkbX video open firefox onli not support chrome browser
+Example video tutorial inpack opencv.tar.xz https://radikal.ru/video/AbKeQ8QmkbX video open firefox / barave browser onli not support chrome browser
 
 Данный проект запатентован под лицензией MIT
 
