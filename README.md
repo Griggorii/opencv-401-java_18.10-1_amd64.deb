@@ -13,5 +13,5 @@ Example video tutorial inpack opencv.tar.xz https://radikal.ru/video/AbKeQ8QmkbX
 
 hLinux OS8.0 ubuntu 18.10 ttps://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop
 
-Linux OS8.0 18.10 compiling my os constructor distr onli linux-java-python-hybrid
+Linux OS8.0 18.10 compiling my os constructor distr onli linux-java-python-hybrid Linux OS8.0 18.10 только для билдинга это смешанный дистрибутив с версией 16.04 по скольку имеет дублирующие пути некоторых библиотек особенно i386 да дистрибутив мусорный потому что смесь , но на нём можно получать совсем другие результаты и использовать уже на своём чистом дистрибутиве собственно что и пакет который здесь подойдёт на другие версии дистрибутивов.
 
