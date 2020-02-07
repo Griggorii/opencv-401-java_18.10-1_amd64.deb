@@ -13,5 +13,5 @@ Example video tutorial inpack opencv.tar.xz https://radikal.ru/video/AbKeQ8QmkbX
 
 hLinux OS8.0 ubuntu 18.10 ttps://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop
 
-Linux OS8.0 18.10 compiling my os constructor distr onli linux-java-hybrid
+Linux OS8.0 18.10 compiling my os constructor distr onli linux-java-python-hybrid
 
